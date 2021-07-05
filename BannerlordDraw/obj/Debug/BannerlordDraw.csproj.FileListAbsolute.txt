@@ -1,0 +1,25 @@
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\BannerlordDraw.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\BannerlordDraw.pdb
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\DynamicData.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\ReactiveUI.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\Splat.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.Numerics.Vectors.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.Reactive.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.ValueTuple.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\DynamicData.xml
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\ReactiveUI.xml
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\Splat.xml
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.Numerics.Vectors.xml
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.Reactive.xml
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\bin\Debug\System.ValueTuple.xml
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BannerlordDraw\bin\Win64_Shipping_Client\BannerlordDraw.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BannerlordDraw\bin\Win64_Shipping_Client\BannerlordDraw.pdb
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\obj\Debug\BannerlordDraw.csproj.CoreCompileInputs.cache
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\obj\Debug\BannerlordDraw.csproj.CopyComplete
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\obj\Debug\BannerlordDraw.dll
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\obj\Debug\BannerlordDraw.pdb
+C:\Programming\Personal\Bannerlord Modding\BannerlordDraw\BannerlordDraw\obj\Debug\BannerlordDraw.csprojAssemblyReference.cache

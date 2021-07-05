@@ -1,0 +1,28 @@
+﻿<Module>
+	<Name value="BannerlordDraw"/>
+	<Id value="BannerlordDraw"/>
+	<Version value="v1.0.1"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+	<DependedModules>
+		<DependedModule Id="Bannerlord.Harmony" />
+		<DependedModule Id="Bannerlord.UIExtenderEx" />
+		<DependedModule Id="Native"/>
+		<DependedModule Id="SandBoxCore"/>
+		<DependedModule Id="Sandbox"/>
+		<DependedModule Id="CustomBattle"/>
+		<DependedModule Id="StoryMode" />
+	</DependedModules>
+	<SubModules>
+		<SubModule>
+			<Name value="BannerlordDraw"/>
+			<DLLName value="BannerlordDraw.dll"/>
+			<SubModuleClassType value="BannerlordDraw.Submodule"/>
+			<Tags>
+				<Tag key="DedicatedServerType" value="none" />
+				<Tag key="IsNoRenderModeElement" value="false" />
+			</Tags>
+		</SubModule>
+	</SubModules>
+	<Xmls/>
+</Module>
